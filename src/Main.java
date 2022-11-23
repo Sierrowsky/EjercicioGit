@@ -8,7 +8,7 @@ public class Main {
         Empleado p = new Empleado("Pepe Pérez", new Date(90, Calendar.FEBRUARY, 1));
         System.out.println(p);
 
-        p.nombre = "Otro nombre";
+       // p.nombre = "Otro nombre";
     }
 
 }
